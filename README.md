@@ -1,0 +1,2 @@
+# ICAS2021
+Kegiatan konferensi internasional diselenggarakan sebagai wadah  sosialisasi, komunikasi kebutuhan dan implementasi teknologi terapan serta keberlanjutannya di  bidang Agro-Maritim 4.0 di era new normal dan kedepannya. Melalui konferensi ini diharapkan  diperoleh berbagai ide dan masukan terkait pengembangan teknologi dan aplikasi terapan Agro- Maritim 4.0 dan keberlanjutannya yang dapat diterapkan pada kehidupan tatanan baru. Konferensi
