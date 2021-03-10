@@ -404,7 +404,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="date">
               <div class="date-img">
-                <img src="img/importante date/1rev.png" alt="" class="img-fluid">
+                <img src="img/importante_date/1rev.png" alt="" class="img-fluid">
               </div>
               <h3><a href="#"></a></h3>
             </div>
@@ -412,7 +412,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="date">
               <div class="date-img">
-                <img src="img/importante date/2rev.png" alt="" class="img-fluid">
+                <img src="img/importante_date/2rev.png" alt="" class="img-fluid">
               </div>
               <h3><a href="#"></a></h3>
             </div>
@@ -420,7 +420,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="date">
               <div class="date-img">
-                <img src="img/importante date/3rev.png" alt="" class="img-fluid">
+                <img src="img/importante_date/3rev.png" alt="" class="img-fluid">
               </div>
               <h3><a href="#"></a></h3>
             </div>
@@ -428,7 +428,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="date">
               <div class="date-img">
-                <img src="img/importante date/4rev.png" alt="" class="img-fluid">
+                <img src="img/importante_date/4rev.png" alt="" class="img-fluid">
               </div>
               <h3><a href="#"></a></h3>
             </div>
@@ -436,7 +436,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="date">
               <div class="date-img">
-                <img src="img/importante date/5rev.png" alt="" class="img-fluid">
+                <img src="img/importante_date/5rev.png" alt="" class="img-fluid">
               </div>
               <h3><a href="#"></a></h3>
             </div>
@@ -444,7 +444,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="date">
               <div class="date-img">
-                <img src="img/importante date/6rev.png" alt="" class="img-fluid">
+                <img src="img/importante_date/6rev.png" alt="" class="img-fluid">
               </div>
               <h3><a href="#"></a></h3>
             </div>

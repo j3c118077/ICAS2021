@@ -193,11 +193,11 @@
                   <table>
                   <tr>
                     <td>Date:</td>
-                    <td>7-8 September 2021</td>
+                    <td>8-9 September 2021</td>
                   </tr>
                   <tr>
                     <td>Venue:</td>
-                    <td>PB International Convention Center Botani Square Building Jl. Raya Pajajaran 
+                    <td>IPB International Convention Center Botani Square Building Jl. Raya Pajajaran 
                         Bogor, West Java, Indonesia</td>
                   </tr>
                   <tr>
