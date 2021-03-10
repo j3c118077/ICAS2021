@@ -34,8 +34,9 @@
   <header id="header">
     <div class="container">
 
-      <div id="logo" class="pull-left">
-        <a href="#intro" class="scrollto"><img src="img/logo.png" alt="logo" title=""></a>
+      <div id="logo" class="pull-left" >
+        <a href="#intro" class="scrollto"><img src="img/logo.png" alt="logo" title="" ></a>
+         
       </div>
 
       <nav id="nav-menu-container">
@@ -43,9 +44,8 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href='conference.php'>Conference</a></li>
           <li><a href='committees.php'>Committees</a></li>
-          <li><a href="guidlines.php">Guidlines</a></li>
-          <li><a href="#">Submissions</a></li>
-          
+          <li><a href='guidlines.php'>Guidlines</a></li>
+          <li><a href='submissions.php'>Submissions</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -57,7 +57,7 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h1 class="mb-4 pb-0">International<br><span>Conference</span> on Applied Science 2021</h1>
-      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunityes and Challenges by College of Vocational Studies IPB University”</p>
+      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunities and Challenges by College of Vocational Studies IPB University”</p>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Submit Your Paper</a>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Registration</a>
     </div>
@@ -66,7 +66,7 @@
   <main id="main">
 
     <!--==========================
-      About Section
+      About Section on index
     ============================-->
     <section id="conference">
       <div class="container">
@@ -118,14 +118,17 @@
         </div> 
       </div>
       <div class="text-center">
-        <img src="img/callforpaper.jpeg" class="img-fluid" alt="Responsive image">
+        <img src="img/cfpflyersementara.jpeg" class="img-fluid" alt="Responsive image">
+        <br>
+        <br>
+      
       </div>
     </section>
 
     <!--==========================
       Speakers Section
     ============================-->
-    <section id="" class="wow fadeInUp">
+    <!-- <section id="" class="wow fadeInUp">
       <div class="container">
         <div class="section-header">
           <h2>Speakers</h2>
@@ -233,9 +236,156 @@
           </div>
 
         </div>
+      </div> -->
+
+    </section>
+    <section id="speakers" class="section-with-bg wow fadeInUp">
+      <div class="container">
+        <div class="section-header">
+          <h2>Speakers</h2>
+          <p>Here are some of our speakers</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/prof_dr_yukihiko_matsumura.png" alt="Speaker 1" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Prof. Dr. Yukihiko Matsumura </a></h3>
+                <p>Hiroshima University, Japan</p>
+              </div>
+            </div>
+          </div>    
+                 
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/Prof_dr_masakazu_komatsuzaki.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Prof. Dr. Masakazu Komatsuzaki</a></h3>
+                <p>Ibaraki University, Japan</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/guillaume_duteurtre.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Guillaume Duteurtre</a></h3>
+                <p>CIRAD, France</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/tamara_soma.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Tamara Soma </a></h3>
+                <p>Simon Fraser University, Canada</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/wendy.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Prof Wendy Umberger </a></h3>
+                <p>Adelaide University, Australia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/dr_vanessa.png" alt="Dr Vannesa" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Vannesa Robitzch, PhD </a></h3>
+                <p>Institute of Enviromental Scinece and Evolution, Science Faculty <br> Austral University (UACh) Valvida, Chile </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
       </div>
 
     </section>
+
+    <!-- Reviewer -->
+    </section>
+    <section id="speakers" class="wow fadeInUp">
+      <div class="container">
+        <div class="section-header">
+          <h2>Reviewer</h2>
+          <p>Here are some of our reviewer</p>
+        </div>
+
+          <div class="row">
+          <div class="col-lg-4 col-md-10">
+            <div class="speaker">
+              <img src="img/speakers/dr_arief.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Ir. Arief Darjanto, M. Ec </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-10">
+            <div class="speaker">
+              <img src="img/speakers/dr_eng_obie_farobie.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Eng. Obie Farobie </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/prof_dr_yandra_arkeman.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Prof. Dr. Yandra Arkeman </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/dr_bagus_purwanto.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Bagus Purwanto </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/dr_Iman_Hermadi_MS.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Iman Hermadi, MS </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/dr_juan_boo_liang.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Juan Boo Liang </a></h3>
+                <p>University Putra Malaysia, Malaysia</p>
+              </div>
+            </div>
+          </div>  
+
+        </div>
+      </div>
+
+    </section>
+
 
     
     <!--==========================
@@ -313,7 +463,6 @@
           <h2>Download</h2>
         </div>
         <div class="row">
-
           <div class="col-lg-4 col-md-6">
             <div class="download">
               <div class="download-img">
@@ -387,9 +536,6 @@
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/venobox/venobox.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>

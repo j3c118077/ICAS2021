@@ -57,7 +57,7 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h1 class="mb-4 pb-0">International<br><span>Conference</span> on Applied Science 2021</h1>
-      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunityes and Challenges by College of Vocational Studies IPB University”</p>
+      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunities and Challenges by College of Vocational Studies IPB University”</p>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Submit Your Paper</a>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Registration</a>
     </div>
@@ -83,12 +83,12 @@
               </p>
               <p>For submission, authors should submit manuscripts through EasyChair System. Before the submission, information of each author should be provided and filled at the form, including First Name and Last Name, email, country, and organization. Each author marked as a corresponding author will receive email messages from the system about this submission. There must be at least one corresponding author.</p>
               <p>All submitted manuscripts to the committee will undergo a double-blind peer review where both reviewer’s and author’s identity will not be disclosed. In some cases, the revised manuscripts will be re-reviewed. The final decision on paper acceptance will be made on the basis of this full paper review. The selected papers, and the best oral and poster presenters will be given a certificate at the closing ceremony.</p>
-              <p>Authors who wish participation without publications should notify the committee immediately after manuscript acceptance. Request can be sent to ICAS2021@ipb.ac.id  and icash2021@gmail.com with email subject “Participation without publications” following with your Submission Number which sent to your registered email after submission at EasyChair System.</p>
+              <p>Authors who wish participation without publications should notify the committee immediately after manuscript acceptance. Request can be sent to icas.sv@apps.ipb.ac.id  with email subject “Participation without publications” following with your Submission Number which sent to your registered email after submission at EasyChair System.</p>
               <p>Technical information about the full-text paper requirement as the <a href="#">“Guidelines for Author(s)”</a>.
               
             </div>
             <div class="col-md-12">
-                <div style="text-align:center;"><font size="+2"><b><a href="https://easychair.org">Click here to submit</a></b></font></div>
+                <div style="text-align:center;"><font size="+2"><b><a href="https://easychair.org/conferences/?conf=iceas2021">Click here to submit</a></b></font></div>
             </div>
         </div>
         <br><hr>
@@ -122,9 +122,6 @@
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/venobox/venobox.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>

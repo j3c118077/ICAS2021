@@ -44,7 +44,7 @@
           <li class="menu-active"><a href='conference.php'>Conference</a></li>
           <li><a href='committees.php'>Committees</a></li>
           <li><a href='guidlines.php'>Guidlines</a></li>
-          <li><a href="#">Submissions</a></li>
+          <li><a href='submissions.php'>Submissions</a></li>
           
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -57,7 +57,7 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h1 class="mb-4 pb-0">International<br><span>Conference</span> on Applied Science 2021</h1>
-      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunityes and Challenges by College of Vocational Studies IPB University”</p>
+      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunities and Challenges by College of Vocational Studies IPB University”</p>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Submit Your Paper</a>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Registration</a>
     </div>
@@ -68,7 +68,7 @@
     <!--==========================
       Theme and topics section
     ============================-->
-    <section id="" class="">
+    <section id="Theme" class="">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -120,8 +120,7 @@
                 <h4 class="section-title">Program</h4>
                 <!-- <p>Program 2nd International Conferences of Applied Sciences (ICAS), meliputi:</p>
             </div> -->
-        </div>
-        <div class="row">
+            <div class="row">
             <div class="col-md-12">
               <h5>1. Plenary session</h5>
               <p>Plenary session by keynote speakers and invited speakers</p>
@@ -141,6 +140,8 @@
             <div class="col-md-12">
               <h5>3. Poster presentation session</h5>
               <p>Presenters who submitted research papers to be presented in the form of a poster presentation.</p>
+        </div>
+        
               <!-- <ul class="program">
                 <li><b>Presenters who submitted research papers to be presented in the form of a poster presentation.</b></li>         
               </ul> -->
@@ -182,17 +183,36 @@
                 <br>
                 <h3 class="section-title">Time and Venue</h3>
                 <p>The International Conference on Applied Science 2021 will be held on:<br>
-                  Date  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : September/October 2021 (planning) <br>
+                
+                  <!-- Date  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 7-8 September 2021 (planning) <br>
                   Venue &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;	: IPB International Convention Center Botani Square Building Jl. Raya Pajajaran 
                         Bogor, West Java, Indonesia <br>
-                  Or Online	&nbsp;: via Zoom<br>
+                  Or Online	&nbsp;: via Zoom<br> -->
                 </p>
-
+                <div class="table">
+                  <table>
+                  <tr>
+                    <td>Date:</td>
+                    <td>7-8 September 2021</td>
+                  </tr>
+                  <tr>
+                    <td>Venue:</td>
+                    <td>PB International Convention Center Botani Square Building Jl. Raya Pajajaran 
+                        Bogor, West Java, Indonesia</td>
+                  </tr>
+                  <tr>
+                    <td>Or Online:</td>
+                    <td>via Zoom</td>
+                  </tr>
+                  </table>
+                </div>
             </div>
         </div>
-      </div>
+    </div>
+  </section>
 
-      <div class="container">
+    <!-- AGenda  -->
+      <!-- <div class="container">
         <div class="row">
             <div class="table">
                 <br>
@@ -317,6 +337,220 @@
             </div>
         </div>
       </div>
+    </section> -->
+    <!-- end agenda -->
+
+    <!--==========================
+      Tentative AGenda Section
+    ============================-->
+    <section id="schedule" class="section-with-bg">
+      <div class="container wow fadeInUp">
+        <div class="row">
+          <div class="col-md-12">
+            <h3>Tentative Agenda</h3>
+          </div>
+          <!-- <p>Here is our event schedule</p> -->
+        </div>
+        <!-- <ul class="nav nav-tabs" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" href="#day-1" role="tab" data-toggle="tab">Day 1</a>
+          </li>
+        </ul> -->
+        <!-- <h3 class="sub-heading">Rundown ICAS Sebagai berikut:</h3> -->
+
+        <div class="tab-content row justify-content-center">
+
+          <!-- Schdule Day 1 -->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>07.30 - 08.00</time></div>
+              <div class="col-md-10">
+                <h4>Registration</h4>
+                <p>Pendaftaran</p>
+                <!-- <p>Peserta melakukan registrasi</p> -->
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>08.00 – 08.05</time></div>
+              <div class="col-md-10">
+                <h4>Indonesia National Anthem</h4>
+                <p>Menyanyikan Lagu Kebangsaan Indonesia</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>08.05 – 08.10 </time></div>
+              <div class="col-md-10">
+                <h4>Report :  Chairman of organizing committee</h4>
+                <p>Laporan : Panitia Penyelenggara</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>08.10 – 08.25</time></div>
+              <div class="col-md-10">
+                <h4>	Welcome Speech : Rector of IPB University, Indonesia
+                (Prof. Dr. Arif Satria)</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>08.25 – 08.45	</time></div>
+              <div class="col-md-10">
+                <h4>	Keynote Speech 1, Ministry of Research and Technology</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>08.45 – 09.05	</time></div>
+              <div class="col-md-10">
+                <h4>	Keynote Speech 2, OVERSEAS (University)</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>09.05 – 09.30	</time></div>
+              <div class="col-md-10">
+                <h4>Bogor cultural performance</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>09.30 – 10.00	</time></div>
+              <div class="col-md-10">
+                <h4>Photo Session and Coffee break</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-10"><h4>Plenary Session Moderator: ………………………</h4></div>
+              <div class="col-md-10">
+                <h4>	
+                      
+                </h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>10.00 – 11.45	</time></div>
+              <div class="col-md-10">
+                <h4>	1.	Roles of Vocational School Education in new normal era, Dean of Vocational School of IPB, (Dr. Arief Darjanto) <br>
+                      2.	Implementation of agro-maritime 4.0 in the new normal era in other countries, universities in other countries <br>
+                      3.	Implementation of agro-maritime 4.0 policy <br>
+                      4.	Implementation of agro-maritime 4.0 applied technology in the industry in the new normal era</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>11. 45 – 13.00	</time></div>
+              <div class="col-md-10">
+                <h4>	Lunch Break</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-10"><h4>Parallel  Session 1 : Technology in agro-maritim 4.0</h4></div>
+              <div class="col-md-10">
+                
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>13.00 – 15.30	</time></div>
+              <div class="col-md-10">
+                <h4>	Moderator : ………… <br> Speaker 1 – 10</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>15.30 – 16.00	</time></div>
+              <div class="col-md-10">
+                <h4>	Coffee break</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-10"><h4>Parallel  Session 2 : Environment in agro-maritim 4.0</h4></div>
+              <div class="col-md-10">
+                
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>13.00 – 15.30</time></div>
+              <div class="col-md-10">
+                <h4>		Moderator : ………… <br> Speaker 11 – 20</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"> <time>15.30 – 16.00</time> </div>
+              <div class="col-md-10">
+                <h4>Coffee break</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-10"><h4>Parallel  Session 3  : Sustainability in agro-maritim 4.0</h4></div>
+              <div class="col-md-10">
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>13.00 – 15.30</time></div>
+              <div class="col-md-10">
+                <h4>		Moderator : ………… <br> Speaker 21 – 30</h4>
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"> <time>15.30 – 16.00</time> </div>
+              <div class="col-md-10">
+                <h4>Coffee break</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-10"><h4>Closing</h4></div>
+              <div class="col-md-10">
+                <p></p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"> <time>16.00-16.30	</time> </div>
+              <div class="col-md-10">
+                <h4>Announcement of the Best Paper award</h4>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"> <time>16.30-17.00</time> </div>
+              <div class="col-md-10">
+                <h4>	Closing and entertainment	</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </section>
    
 
@@ -347,9 +581,6 @@
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/venobox/venobox.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>

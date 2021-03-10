@@ -41,10 +41,10 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li><a href='index.php'>Home</a></li>
-          <li><a href="conference.php">Conference</a></li>
-          <li class="menu-active"><a href="committess.php">Committees</a></li>
-          <li><a href="guidlines.php">Guidlines</a></li>
-          <li><a href="#">Submissions</a></li>
+          <li><a href='conference.php'>Conference</a></li>
+          <li class="menu-active"><a href='committees.php'>Committees</a></li>
+          <li><a href='guidlines.php'>Guidlines</a></li>
+          <li><a href='submissions.php'>Submissions</a></li>
           
         </ul>
       </nav><!-- #nav-menu-container -->
@@ -57,7 +57,7 @@
   <section id="intro">
     <div class="intro-container wow fadeIn">
       <h1 class="mb-4 pb-0">International<br><span>Conference</span> on Applied Science 2021</h1>
-      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunityes and Challenges by College of Vocational Studies IPB University”</p>
+      <p class="mb-4 pb-0">“Toward Sustainable Agro-Maritime 4.0 in New Era: Opportunities and Challenges by College of Vocational Studies IPB University”</p>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Submit Your Paper</a>
       <a href="https://easychair.org/conferences/?conf=iceas2021" class="about-btn scrollto">Registration</a>
     </div>
@@ -94,7 +94,7 @@
               	<li><b>Intani Dewi, S.Pt, M.Si </b> (Program)</li>
               	<li><b>Dr. Eng. Obie Farobie,MSi</b> (Publications & papers)</li>
               	<li><b>Ganjar Saefurahman, SPi, M.Phil </b> (Publications & papers)</li>
-              	<li><b>Sofiyanti Indrasari,  S.Kom, M.Kom  </b> (ICT)</li>
+              	<li><b>Sofiyanti Indriasari,  S.Kom, M.Kom  </b> (ICT)</li>
               </ul>
             </div>
         </div>
@@ -129,9 +129,6 @@
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/venobox/venobox.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
