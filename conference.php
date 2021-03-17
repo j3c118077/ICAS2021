@@ -209,8 +209,77 @@
             </div>
         </div>
     </div>
+    <br>
+    <br>
   </section>
-
+  
+  <section id="Payment" class="section-with-bg wow fadeInUp">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="d-inline p-2 bg-danger text-white">Registration Fee For ICAS 2021</div>
+          <br>
+          <br>
+        </div>
+        <div class="col-md-12">
+          <div class="table">
+            <table class="table table-borderless">
+              <tr>
+                <td>Paper Submission</td>
+                <td>Rp. 500,000</td>
+                <td>US$ 35</td>
+              </tr>
+              <tr>
+                <td>Publication and Presentation</td>
+                <td>Rp. 2,000,000</td>
+                <td> US$ 140</td>
+              </tr>
+              <tr>
+                <td>Ofline Participation</td>
+                <td>Rp. 1,000,000</td>
+                <td>US$ 70</td>                
+              </tr>
+              <tr>
+                <td>Online Participation</td>
+                <td>Rp. 100,000</td>
+                <td>US$ 7</td>
+              </tr>
+            </table>
+            <br>
+            <br>
+          </div>
+           <div class="row">
+            <div class="col-md-12">
+                <h5 style="text-align: justify;">Bank Transfer:</h5>
+                <!-- <p>&nbsp;</p> -->
+                <table class="table table-borderless" width="421">
+                <tbody valign="Top">
+                <tr>
+                <td width="160">Bank Name</td>
+                <td width="11">:</td>
+                <td width="250"><strong>Bank Syariah Mandiri</strong></td>
+                </tr>
+                <tr>
+                <td>Account Name</td>
+                <td>:</td>
+                <td><strong>A.N. REKTOR IPB QQ SEKOLAH VOKASI KAMPUS IPB DRAMAGA BOGOR</strong></td>
+                </tr>
+                <tr>
+                <td>Account Number</td>
+                <td>:</td>
+                <td><strong>7777715555</strong></td>
+                </tr>
+                <tr>
+                </tbody>
+                </table>
+                <hr>
+              <p> Participants must indicate which category they are included into. Payment should be made no later than ........ through bank transfer. The payment receipt should be emailed to: icas.sv@apps.ipb.ac.id with Subject “[ICAS2021_Payment]_Name of Author”. Scanned Student ID card must be attached to qualify for student rate*. Presenters who present colleges, university, or educational institution should present their ID to proof their status to get faculty member’ rate **.</p>
+            </div>
+           </div>       
+        </div>        
+      </div>
+    </div>
+  </section>
     <!-- AGenda  -->
       <!-- <div class="container">
         <div class="row">
@@ -343,7 +412,7 @@
     <!--==========================
       Tentative AGenda Section
     ============================-->
-    <section id="schedule" class="section-with-bg">
+    <section id="schedule" class="">
       <div class="container wow fadeInUp">
         <div class="row">
           <div class="col-md-12">
@@ -367,7 +436,7 @@
               <div class="col-md-2"><time>07.30 - 08.00</time></div>
               <div class="col-md-10">
                 <h4>Registration</h4>
-                <p>Pendaftaran</p>
+                <!-- <p>Pendaftaran</p> -->
                 <!-- <p>Peserta melakukan registrasi</p> -->
               </div>
             </div>
@@ -376,7 +445,7 @@
               <div class="col-md-2"><time>08.00 – 08.05</time></div>
               <div class="col-md-10">
                 <h4>Indonesia National Anthem</h4>
-                <p>Menyanyikan Lagu Kebangsaan Indonesia</p>
+                <!-- <p>Menyanyikan Lagu Kebangsaan Indonesia</p> -->
               </div>
             </div>
 
@@ -384,7 +453,7 @@
               <div class="col-md-2"><time>08.05 – 08.10 </time></div>
               <div class="col-md-10">
                 <h4>Report :  Chairman of organizing committee</h4>
-                <p>Laporan : Panitia Penyelenggara</p>
+                <!-- <p>Laporan : Panitia Penyelenggara</p> -->
               </div>
             </div>
 

@@ -114,20 +114,19 @@
               <p>The Vancouver style reference format should be followed. In-text citations are to be numbered consecutively in parentheses.  In the reference list, citations should be given in the same numbered order as in the text.  All authors should be quoted for papers with up to six authors, and for papers with more than six authors, the first six should be quoted followed by "et al." Periodical (Journal) abbreviations should follow those used by PubMed (http://www.ncbi.nlm.nih.gov/nlmcatalog/journals).  Some examples of how to quote the references are given below.  </p>
               <p><i>Health and well-being is a fundamental right of every human being [1]. Governments of every nation responsible to provide facilities and supporting policies to enable people accessing healthcare services[2]. As the Sustainable Development Goals have highlighted the commitment to end the epidemics of AIDS, tuberculosis, malaria and other communicable diseases by 2030 by putting good health and well-being as the indicator[3], it is important to review the current situation to provide the policy makers and government designing future health programs. Not only government, individuals as community members are also responsible for their own health and well-being. Better society can be established when governments, community members, and private sectors are working together at the same direction to reach the goals.
               </p></i>
-              <b>Journal article:</b><br>
+              <!-- <b>Journal article:</b><br> -->
               <!-- 1.	Alison MB, Nobles J. Ethnic diversity, traditional norms, and marriage behaviour in Indonesia. Population Studies. 2009;63(3):277-94. -->
-              <br>
-              <b>Book  section:</b><br>
+              <!-- <br> -->
+              <!-- <b>Book  section:</b><br> -->
               <!-- 2.	Bongaarts J. The Proximate Determinants Of Natural Marital Fertility. In: Bulatao RA, editor. Determinants of Fertility in Developing Countries. Washington DC: National Academy Press; 1983. -->
-              <br>
-              <b>Entire book:</b><br>
+              <!-- <br> -->
+              <!-- <b>Entire book:</b><br> -->
               <!-- 3.	WHO WHO. Adolescent pregnancy: unmet needs and undone deeds: a review of the literature and programmes. Geneva: World Health Organization. 2007. -->
 
 
-
               </ol>
-              <br><br><br>
-              <p>Visit the previous publication <a href="#">HERE</a> for the examples.</p>
+              
+              <p>"Technical information about the full-text paper requirement as the  <a href="https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/">“Guidelines for Author(s)”</a></p>
             </div>
         </div>
     </div>

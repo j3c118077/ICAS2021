@@ -24,6 +24,9 @@
   <link href="lib/venobox/venobox.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
+  <!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
 <body>
@@ -118,7 +121,7 @@
         </div> 
       </div>
       <div class="text-center">
-        <img src="img/cfpflyersementara.jpeg" class="img-fluid" alt="Responsive image">
+        <img src="img/flyer.jpeg" class="img-fluid" alt="Responsive image">
         <br>
         <br>
       
@@ -268,6 +271,17 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="speaker">
+              <img src="img/speakers/prof_wendy.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Prof. Wendy Umberger </a></h3>
+                <p>Adelaide University, Australia</p>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
               <img src="img/speakers/guillaume_duteurtre.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
                 <h3><a href="#">Guillaume Duteurtre</a></h3>
@@ -280,27 +294,18 @@
             <div class="speaker">
               <img src="img/speakers/tamara_soma.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="#">Dr. Tamara Soma </a></h3>
+                <h3><a href="#">Dr. Tammara Soma </a></h3>
                 <p>Simon Fraser University, Canada</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="img/speakers/wendy.png" alt="Speaker 2" class="img-fluid">
-              <div class="details">
-                <h3><a href="#">Prof Wendy Umberger </a></h3>
-                <p>Adelaide University, Australia</p>
-              </div>
-            </div>
-          </div>
-
+          
           <div class="col-lg-4 col-md-6">
             <div class="speaker">
               <img src="img/speakers/dr_vanessa.png" alt="Dr Vannesa" class="img-fluid">
               <div class="details">
-                <h3><a href="#">Dr. Vannesa Robitzch, PhD </a></h3>
+                <h3><a href="#">Dr. Vannessa Robitzch</a></h3>
                 <p>Institute of Enviromental Scinece and Evolution, Science Faculty <br> Austral University (UACh) Valvida, Chile </p>
               </div>
             </div>
@@ -308,6 +313,8 @@
 
         </div>
       </div>
+      <br>
+      <br>
 
     </section>
 
@@ -321,27 +328,27 @@
         </div>
 
           <div class="row">
-          <div class="col-lg-4 col-md-10">
+          <div class="col-lg-4 col-md-3">
             <div class="speaker">
-              <img src="img/speakers/dr_arief.png" alt="Speaker 2" class="img-fluid">
+              <img src="img/speakers/dr_juan_boo_liang.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="#">Dr. Ir. Arief Darjanto, M. Ec </a></h3>
-                <p>IPB University, Indonesia</p>
+                <h3><a href="#">Dr. Juan Boo Liang </a></h3>
+                <p>University Putra Malaysia, Malaysia</p>
               </div>
             </div>
-          </div>
+          </div> 
 
-          <div class="col-lg-4 col-md-10">
+          <div class="col-lg-4 col-md-3">
             <div class="speaker">
-              <img src="img/speakers/dr_eng_obie_farobie.png" alt="Speaker 2" class="img-fluid">
+              <img src="img/speakers/oyinlola.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="#">Dr. Eng. Obie Farobie </a></h3>
-                <p>IPB University, Indonesia</p>
+                <h3><a href="#">Muhammed A. Oyinlola, PhD </a></h3>
+                <p>Institute for the Oceans and Fisheries, University of British Columbia</p>
               </div>
             </div>
-          </div>
+          </div> 
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-3">
             <div class="speaker">
               <img src="img/speakers/prof_dr_yandra_arkeman.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
@@ -351,7 +358,27 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-3">
+            <div class="speaker">
+              <img src="img/speakers/dr_arief.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Ir. Arief Darjanto, M. Ec </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-3">
+            <div class="speaker">
+              <img src="img/speakers/dr_eng_obie_farobie.png" alt="Speaker 2" class="img-fluid">
+              <div class="details">
+                <h3><a href="#">Dr. Eng. Obie Farobie </a></h3>
+                <p>IPB University, Indonesia</p>
+              </div>
+            </div>
+          </div>          
+
+          <div class="col-lg-4 col-md-3">
             <div class="speaker">
               <img src="img/speakers/dr_bagus_purwanto.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
@@ -361,28 +388,22 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-3">
             <div class="speaker">
               <img src="img/speakers/dr_Iman_Hermadi_MS.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="#">Dr. Iman Hermadi, MS </a></h3>
+                <h3><a href="#">Dr. Irman Hermadi, MS</a></h3>
                 <p>IPB University, Indonesia</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6">
-            <div class="speaker">
-              <img src="img/speakers/dr_juan_boo_liang.png" alt="Speaker 2" class="img-fluid">
-              <div class="details">
-                <h3><a href="#">Dr. Juan Boo Liang </a></h3>
-                <p>University Putra Malaysia, Malaysia</p>
-              </div>
-            </div>
-          </div>  
+           
 
         </div>
       </div>
+      <br>
+      <br>
 
     </section>
 
@@ -395,6 +416,8 @@
 
       <div class="container">
         <div class="section-header">
+        <br>
+        <br>
           <h2>Important Date</h2>
           <p>Note Important Date</p>
         </div>
@@ -453,6 +476,8 @@
       </div>
 
     </section>
+    <br>
+    <br>
 
     <!--=====================
       Download Template
@@ -464,49 +489,42 @@
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-6">
-            <div class="download">
-              <div class="download-img">
-                <img src="img/download/1.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="#"></a></h3>
+            <div class="card" style="width: 20rem;">
+               <div class="card-body">
+               <h5 class="card-title">Conference Flyer</h5>
+                <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+               <a href="img/flyer.jpeg" download="Conference_Flyer.jpeg"">Download</a>            
+               </div> 
             </div>
           </div>
+
           <div class="col-lg-4 col-md-6">
-            <div class="download">
-              <div class="download-img">
-                <img src="img/download/2.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="#"></a></h3>
+            <div class="card" style="width: 20rem;">
+               <div class="card-body">
+               <h5 class="card-title">Author Guidlines</h5>
+            <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+            <a href="file/JPCSWordTemplateGuidelines.doc" download="Author_Guidlines.docx">Download</a>                     
+               </div> 
             </div>
           </div>
+
           <div class="col-lg-4 col-md-6">
-            <div class="download">
-              <div class="download-img">
-                <img src="img/download/3.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="#"></a></h3>
+            <div class="card" style="width: 20rem;">
+               <div class="card-body">
+                  <h5 class="card-title">Full Paper Template</h5>
+              <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+                  <a href="file/JPCSExampleWordDocument.docx" download="Full_Paper_Template.docx"">Download</a>                    
+               </div> 
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="download">
-              <div class="download-img">
-                <img src="img/download/4.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="#"></a></h3>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="download">
-              <div class="download-img">
-                <img src="img/download/5.png" alt="" class="img-fluid">
-              </div>
-              <h3><a href="#"></a></h3>
-            </div>
-          </div>
-          
-        </div>
+
+        </div>    
+        
       </div>
     </section>
+    <br>
+    <br>
+    <br>
 
     
 

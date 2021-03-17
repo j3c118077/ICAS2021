@@ -84,7 +84,7 @@
               <p>For submission, authors should submit manuscripts through EasyChair System. Before the submission, information of each author should be provided and filled at the form, including First Name and Last Name, email, country, and organization. Each author marked as a corresponding author will receive email messages from the system about this submission. There must be at least one corresponding author.</p>
               <p>All submitted manuscripts to the committee will undergo a double-blind peer review where both reviewer’s and author’s identity will not be disclosed. In some cases, the revised manuscripts will be re-reviewed. The final decision on paper acceptance will be made on the basis of this full paper review. The selected papers, and the best oral and poster presenters will be given a certificate at the closing ceremony.</p>
               <p>Authors who wish participation without publications should notify the committee immediately after manuscript acceptance. Request can be sent to icas.sv@apps.ipb.ac.id  with email subject “Participation without publications” following with your Submission Number which sent to your registered email after submission at EasyChair System.</p>
-              <p>Technical information about the full-text paper requirement as the <a href="#">“Guidelines for Author(s)”</a>.
+              <p>Technical information about the full-text paper requirement as the <a href="https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/">“Guidelines for Author(s)”</a>.
               
             </div>
             <div class="col-md-12">
